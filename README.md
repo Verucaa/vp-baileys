@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[[https://cdn.veru.qzz.io/w44PYT.png]]" width="400" alt="VP Baileys Banner" />
+  <img src="https://cdn.veru.qzz.io/w44PYT.png" width="400" alt="VP Baileys Banner" />
   <br><br>
 
   <h1>vp-baileys</h1>
