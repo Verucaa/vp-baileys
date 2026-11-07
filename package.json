@@ -1,6 +1,6 @@
 {
   "name": "vp-baileys",
-  "version": "9.0.33",
+  "version": "9.0.34",
   "description": "Modded Baileys V7 with interactive message, album, messageBuilder, newsletter, and VoIP support",
   "repository": {
     "type": "git",
